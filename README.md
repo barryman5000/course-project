@@ -1,4 +1,4 @@
-#Project Purpose
+# Project Purpose
 This is a course project showing some react concepts for UX design CSC 453L.  It is a simple sports 
 apparel website utilizing react's router modules, stylized componenets, and more.
 
